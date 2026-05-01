@@ -1,4 +1,4 @@
-# 沪深300指数收益率预测系统 — 部署文档
+# 沪深300指数收益率预测系统
 
 ## 1. 项目概述
 
@@ -70,7 +70,7 @@ pip install streamlit plotly torch pykalman scipy scikit-learn openpyxl pandas n
 │   ├── lstm.pt                # LSTM 模型权重
 │   ├── transformer.pt         # Transformer 模型权重
 │   └── lstm_transformer.pt    # LSTM-Transformer 模型权重
-└── 部署文档.md                 # 本文档
+└── README.md                  # 本文档
 ```
 
 ## 5. 部署步骤
